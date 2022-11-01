@@ -1,4 +1,4 @@
-Le suprême guide d'étudier de Python
+# Le suprême guide d'étudier de Python
 
 [![CircleCI](https://img.shields.io/circleci/build/github/huangsam/ultimate-python)](https://circleci.com/gh/huangsam/ultimate-python)
 [![Code Coverage](https://img.shields.io/codecov/c/github/huangsam/ultimate-python)](https://codecov.io/gh/huangsam/ultimate-python)
