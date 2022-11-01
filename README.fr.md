@@ -1,13 +1,13 @@
 Le suprême guide d'étudier de Python
 CircleCI Code Coverage Quality Gate Status License r/Python
 
-Le suprême guide d'étudier de Python pour newcomers et professionals alike. 🐍 🐍 🐍
+Le suprême guide d'étudier de Python pour les nouveaux venus et professionnels se ressemblent. 🐍 🐍 🐍
 
 print("Ultimate Python study guide")
 English | 한국어 | 繁体中文 | Español | Deutsch | Français | 日本語
 
-Motivation
-I created this GitHub repo to share what I've learned about core Python over the past 5+ years of using it as a college graduate, an employee at large-scale companies and an open-source contributor of repositories like Celery and Full Stack Python. I look forward to seeing more people learn Python and pursue their passions through it. 🎓
+La motivation
+Je crée this GitHub repo to share what I've learned about core Python over the past 5+ years of using it as a college graduate, an employee at large-scale companies and an open-source contributor of repositories like Celery and Full Stack Python. I look forward to seeing more people learn Python and pursue their passions through it. 🎓
 
 Goals
 Here are the primary goals of creating this guide:
