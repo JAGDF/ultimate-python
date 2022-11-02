@@ -22,7 +22,7 @@ Je crée son GitHub dépôt à partager quel j'ai apprendu à propos de cœur de
 
 Ils sont les buts principals de créent son guide:
 
-🏆 Serve as a resource for Python newcomers who prefer to learn hands-on. This repository has a collection of standalone modules which can be run in an IDE like PyCharm and in the browser like Replit. Even a plain old terminal will work with the examples. Most lines have carefully crafted comments which guide a reader through what the programs are doing step-by-step. Users are encouraged to modify source code anywhere as long as the main routines are not deleted and run successfully after each change.
+🏆 Serve comme un ressource pour les nouveaux venus de Python qui préfèrent à apprendre pratique. Ce dépôt au collection des modules autonomes quel peux être dirige dans un IDE comme PyCharm et en la navigateur comme Replit. Even a plain old terminal will work with the examples. Most lines have carefully crafted comments which guide a reader through what the programs are doing step-by-step. Users are encouraged to modify source code anywhere as long as the main routines are not deleted and run successfully after each change.
 
 🏆 Serve as a pure guide for those who want to revisit core Python concepts. Only builtin libraries are leveraged so that these concepts can be conveyed without the overhead of domain-specific concepts. As such, popular open-source libraries and frameworks (i.e. sqlalchemy, requests, pandas) are not installed. However, reading the source code in these frameworks is inspiring and highly encouraged if your goal is to become a true Pythonista.
 
