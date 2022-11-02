@@ -14,12 +14,13 @@ print("Ultimate Python study guide")
 
 English | 한국어 | 繁体中文 | Español | Deutsch | Français | 日本語
 
-# La motivation
+## La motivation
 
-Je crée son GitHub dépôt à partager quel j'ai apprendu à propos de cœur de Python plus de la 5 années passées de utilise la comme un college graduate, un employee at large-scale companies et un open-source contributor de dépôts like Celery et Full Stack Python. Je regarde avancer à voir plus de peuples apprendrent Python et pursue their passions through it. 🎓
+Je crée son GitHub dépôt à partager quel j'ai apprendu à propos de cœur de Python plus de la 5 années passées de utilise la comme un college graduate, un employee à grands échelles sociétés et un source-ouvert collaborateur de dépôts comme Celery et Full Stack Python. Je regarde avancer à voir plus de peuples apprendrent Python et poursuivent ses passions par la. 🎓
 
-Goals
-Here are the primary goals of creating this guide:
+## Goals
+
+Ils sont les buts principals de créent son guide:
 
 🏆 Serve as a resource for Python newcomers who prefer to learn hands-on. This repository has a collection of standalone modules which can be run in an IDE like PyCharm and in the browser like Replit. Even a plain old terminal will work with the examples. Most lines have carefully crafted comments which guide a reader through what the programs are doing step-by-step. Users are encouraged to modify source code anywhere as long as the main routines are not deleted and run successfully after each change.
 
