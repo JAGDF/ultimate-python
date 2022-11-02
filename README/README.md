@@ -18,6 +18,7 @@ print("Ultimate Python study guide")
 [Español](README.es.md) |
 [Deutsch](README.de.md) |
 [Français](README.fr.md) |
+[日本語](README.jp.md)
 
 ## Motivation
 
