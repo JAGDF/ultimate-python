@@ -8,11 +8,15 @@
 
 Le suprême guide d'étudier de Python pour les nouveaux venus et professionnels se ressemblent. 🐍 🐍 🐍
 
+```python
 print("Ultimate Python study guide")
+```
+
 English | 한국어 | 繁体中文 | Español | Deutsch | Français | 日本語
 
-La motivation
-Je crée this GitHub repo to share what I've learned about core Python over the past 5+ years of using it as a college graduate, an employee at large-scale companies and an open-source contributor of repositories like Celery and Full Stack Python. I look forward to seeing more people learn Python and pursue their passions through it. 🎓
+# La motivation
+
+Je crée son GitHub dépôt à partager quel j'ai apprendu à propos de cœur de Python plus de la 5 années passées de utilise la comme un college graduate, un employee at large-scale companies et un open-source contributor de dépôts like Celery et Full Stack Python. Je regarde avancer à voir plus de peuples apprendrent Python et pursue their passions through it. 🎓
 
 Goals
 Here are the primary goals of creating this guide:
