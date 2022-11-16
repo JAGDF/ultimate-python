@@ -12,7 +12,13 @@ Le suprême guide d'étudier de Python pour les nouveaux venus et professionnels
 print("Ultimate Python study guide")
 ```
 
-English | 한국어 | 繁体中文 | Español | Deutsch | Français | 日本語
+[English](README.md) | 
+한국어 | 
+繁体中文 | 
+Español | 
+Deutsch |
+Français | 
+日本語
 
 ## La motivation
 
